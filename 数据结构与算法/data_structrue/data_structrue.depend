@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1565954366 source:e:\c++”Ô—‘\data_structrue\main.cpp
+	<iostream>
+
+1566027656 source:e:\c++”Ô—‘\data_structrue\linear\sequence.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1566027509 source:e:\c++”Ô—‘\data_structrue\linear\majority.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1566036278 source:e:\c++”Ô—‘\data_structrue\linear\link.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1566112298 source:e:\c++”Ô—‘\data_structrue\linear\diguitree.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1570033701 source:e:\c++”Ô—‘\testqueue.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1566027509 source:e:\c++”Ô—‘\data_structrue\linear\array\majority.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1573402757 source:e:\c++”Ô—‘\data_structrue\nonlinear\graph\creategraph.cpp
+	<cstdlib>
+	<iostream>
+
+1573402830 source:e:\c++”Ô—‘\data_structrue\nonlinear\graph\tenlinkcreategraph.cpp
+	<stdlib.h>
+	<cstdio>
+	<iostream>
+
