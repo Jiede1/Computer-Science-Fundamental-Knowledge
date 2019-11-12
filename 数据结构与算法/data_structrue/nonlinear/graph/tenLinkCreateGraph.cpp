@@ -70,7 +70,7 @@ void CreateDG(OLGraph *G){
     }
 }
 
-int main(void)
+int mainqq(void)
 {
     cout<<"½¨Í¼"<<endl;
     OLGraph OL;

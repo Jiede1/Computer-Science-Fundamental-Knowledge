@@ -72,7 +72,7 @@ void createAMLGraph(AMLGraph* G){
         G->adjmulist[j].firstedge=p;
     }
 }
-int main(void)
+int mainAML(void)
 {
     cout<<"½¨Í¼"<<endl;
     AMLGraph AML;

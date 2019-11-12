@@ -109,7 +109,7 @@ void delete_value(LinkList L, int i){
 
 //Çó±í³¤
 
-int main(){
+int mainlink(){
     /*
     LNode *newlist;
     cout<<newlist<<endl;

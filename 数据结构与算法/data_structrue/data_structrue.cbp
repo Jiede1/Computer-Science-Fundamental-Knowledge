@@ -32,14 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="linear/diguiTree.cpp" />
-		<Unit filename="linear/link.cpp" />
-		<Unit filename="linear/majority.cpp" />
-		<Unit filename="linear/oneTwoDimensionLink.cpp" />
-		<Unit filename="linear/sequence.cpp" />
-		<Unit filename="linear/twolink.cpp" />
+		<Unit filename="linear/LinkList/diguiTree.cpp" />
+		<Unit filename="linear/LinkList/link.cpp" />
+		<Unit filename="linear/LinkList/oneTwoDimensionLink.cpp" />
+		<Unit filename="linear/LinkList/twolink.cpp" />
+		<Unit filename="linear/array/majority.cpp" />
+		<Unit filename="linear/array/sequence.cpp" />
+		<Unit filename="linear/stack/sequence_stack.cpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="stack/sequence_stack.cpp" />
+		<Unit filename="nonlinear/graph/createAMGraph.cpp" />
+		<Unit filename="nonlinear/graph/createGraph.cpp" />
+		<Unit filename="nonlinear/graph/createGraph_Matrix.cpp" />
+		<Unit filename="nonlinear/graph/tenLinkCreateGraph.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

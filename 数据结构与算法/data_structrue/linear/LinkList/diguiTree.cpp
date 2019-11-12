@@ -40,7 +40,7 @@ void Del_X_3(LinkList *L,ElemType x) {
      //printf("--->%d\n",L->data);
 }
 
-int main(int argc,char **agrv) {
+int maindigui(int argc,char **agrv) {
     int n;
     while(~scanf("%d",&n)) {
          int x;

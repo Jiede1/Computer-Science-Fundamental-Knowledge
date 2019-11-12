@@ -12,6 +12,7 @@ typedef struct DNode{
 };
 
 //插入节点操作
+/*
 void insertValue(){
     s->next=p->next;
     p->next->prior=s;
@@ -26,5 +27,5 @@ void delete_value(){
     q->next->prior=p;
     free(q);
 }
-
+*/
 //求表长操作
